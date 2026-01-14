@@ -7,13 +7,13 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "icons/stat_sim_192px.png",
+      "src": "icons/app_icon_192px.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "icons/stat_sim_512px.png",
+      "src": "icons/app_icon_512px.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
@@ -21,3 +21,4 @@
   ]
 
 }
+
