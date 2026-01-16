@@ -1,6 +1,6 @@
 {
   "name": "이풋볼 스탯 시뮬레이터",
-  "short_name": "Stat SIM",
+  "short_name": "EF Helper",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
@@ -21,4 +21,5 @@
   ]
 
 }
+
 
